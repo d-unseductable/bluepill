@@ -393,3 +393,5 @@ run and pass on that implementation. When something breaks on your
 implementation, you will be responsible for providing patches in a timely
 fashion. If critical issues for a particular implementation exist at the time
 of a major release, support for that Ruby version may be dropped.
+
+Thanks to @mail2fish for the idea of the fix
